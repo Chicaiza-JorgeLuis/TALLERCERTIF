@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\bin\Debug\BEUTaller.dll.config
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\bin\Debug\BEUTaller.dll
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\bin\Debug\BEUTaller.pdb
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\obj\Debug\BEUTaller.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\obj\Debug\BEUTaller.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\obj\Debug\BEUTaller.csproj.CopyComplete
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\obj\Debug\BEUTaller.dll
+C:\Users\usuario\source\repos\Ejercicio-Certifi-I\SlnTaller\BEUTaller\obj\Debug\BEUTaller.pdb
